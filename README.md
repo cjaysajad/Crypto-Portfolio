@@ -1,5 +1,4 @@
 # Crypto Portfolio
-
 Track your cryptocurrency investments.
 
 ## Features
@@ -8,7 +7,6 @@ Track your cryptocurrency investments.
 - Price alerts
 - Tax reports
 - Multi-wallet
-
 ## Tech Stack
 - React
 - CoinGecko API
