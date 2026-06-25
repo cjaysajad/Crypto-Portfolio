@@ -10,6 +10,5 @@ Track your cryptocurrency investments
 - CoinGecko API
 - Chart.js
 - Firebase
-
 ## License
 MIT
