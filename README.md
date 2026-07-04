@@ -6,7 +6,7 @@ Track your cryptocurrency investments
 - Tax reports
 - Multi-wallet
 ## Tech Stack
-- React
+- 
 - CoinGecko API
 - Chart.js
 - Firebase
