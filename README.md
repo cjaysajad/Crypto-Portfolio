@@ -4,7 +4,6 @@ Track your cryptocurrency investments
 - Profit/loss calculation
 - Price alerts
 - Tax reports
-- -wallet
 ## Tech Stack
 - - CoinGecko API
 - Chart.js
